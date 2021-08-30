@@ -1,0 +1,336 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7.2": {
+      "Anarchy-wrapper/0.8.1.1": {
+        "type": "package",
+        "dependencies": {
+          "Leaf.xNet": "5.2.10",
+          "Newtonsoft.Json": "12.0.3",
+          "better-websocket-sharp": "1.0.2.1"
+        },
+        "compile": {
+          "lib/net47/Anarchy.dll": {}
+        },
+        "runtime": {
+          "lib/net47/Anarchy.dll": {}
+        }
+      },
+      "better-websocket-sharp/1.0.2.1": {
+        "type": "package",
+        "compile": {
+          "lib/net35/websocket-sharp.dll": {}
+        },
+        "runtime": {
+          "lib/net35/websocket-sharp.dll": {}
+        }
+      },
+      "Leaf.xNet/5.2.10": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System",
+          "System.Core",
+          "System.Net.Http",
+          "System.Web"
+        ],
+        "compile": {
+          "lib/net45/Leaf.xNet.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Leaf.xNet.dll": {}
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win": {
+      "Anarchy-wrapper/0.8.1.1": {
+        "type": "package",
+        "dependencies": {
+          "Leaf.xNet": "5.2.10",
+          "Newtonsoft.Json": "12.0.3",
+          "better-websocket-sharp": "1.0.2.1"
+        },
+        "compile": {
+          "lib/net47/Anarchy.dll": {}
+        },
+        "runtime": {
+          "lib/net47/Anarchy.dll": {}
+        }
+      },
+      "better-websocket-sharp/1.0.2.1": {
+        "type": "package",
+        "compile": {
+          "lib/net35/websocket-sharp.dll": {}
+        },
+        "runtime": {
+          "lib/net35/websocket-sharp.dll": {}
+        }
+      },
+      "Leaf.xNet/5.2.10": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System",
+          "System.Core",
+          "System.Net.Http",
+          "System.Web"
+        ],
+        "compile": {
+          "lib/net45/Leaf.xNet.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Leaf.xNet.dll": {}
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-x64": {
+      "Anarchy-wrapper/0.8.1.1": {
+        "type": "package",
+        "dependencies": {
+          "Leaf.xNet": "5.2.10",
+          "Newtonsoft.Json": "12.0.3",
+          "better-websocket-sharp": "1.0.2.1"
+        },
+        "compile": {
+          "lib/net47/Anarchy.dll": {}
+        },
+        "runtime": {
+          "lib/net47/Anarchy.dll": {}
+        }
+      },
+      "better-websocket-sharp/1.0.2.1": {
+        "type": "package",
+        "compile": {
+          "lib/net35/websocket-sharp.dll": {}
+        },
+        "runtime": {
+          "lib/net35/websocket-sharp.dll": {}
+        }
+      },
+      "Leaf.xNet/5.2.10": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System",
+          "System.Core",
+          "System.Net.Http",
+          "System.Web"
+        ],
+        "compile": {
+          "lib/net45/Leaf.xNet.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Leaf.xNet.dll": {}
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-x86": {
+      "Anarchy-wrapper/0.8.1.1": {
+        "type": "package",
+        "dependencies": {
+          "Leaf.xNet": "5.2.10",
+          "Newtonsoft.Json": "12.0.3",
+          "better-websocket-sharp": "1.0.2.1"
+        },
+        "compile": {
+          "lib/net47/Anarchy.dll": {}
+        },
+        "runtime": {
+          "lib/net47/Anarchy.dll": {}
+        }
+      },
+      "better-websocket-sharp/1.0.2.1": {
+        "type": "package",
+        "compile": {
+          "lib/net35/websocket-sharp.dll": {}
+        },
+        "runtime": {
+          "lib/net35/websocket-sharp.dll": {}
+        }
+      },
+      "Leaf.xNet/5.2.10": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System",
+          "System.Core",
+          "System.Net.Http",
+          "System.Web"
+        ],
+        "compile": {
+          "lib/net45/Leaf.xNet.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Leaf.xNet.dll": {}
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Anarchy-wrapper/0.8.1.1": {
+      "sha512": "C/ebc4LCp0zGaxSH6qL8298hHwUk3R9z+H3rYEd12IzkmOq6kmpNKxdu7rcdvyh/1zYPhZl6KsvuocqiLJYZhw==",
+      "type": "package",
+      "path": "anarchy-wrapper/0.8.1.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "anarchy-wrapper.0.8.1.1.nupkg.sha512",
+        "anarchy-wrapper.nuspec",
+        "lib/net47/Anarchy.dll"
+      ]
+    },
+    "better-websocket-sharp/1.0.2.1": {
+      "sha512": "o53XqfFxcgQ14NX7ZGnrrzYoEllwkbMUJIbCHqCsuuI91IkQBLBFMKKSfsHZuU54HGQ4SzaXbyV/8YicTYCk4g==",
+      "type": "package",
+      "path": "better-websocket-sharp/1.0.2.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "better-websocket-sharp.1.0.2.1.nupkg.sha512",
+        "better-websocket-sharp.nuspec",
+        "lib/net35/websocket-sharp.dll"
+      ]
+    },
+    "Leaf.xNet/5.2.10": {
+      "sha512": "Oze0nomQponksY0Cc4KtaqHCAqzaIeIaFXKz8m/F4gnRARtIjUlUYl6+jYETBqwChEFkz/0jH4iGS+M5dn8TFQ==",
+      "type": "package",
+      "path": "leaf.xnet/5.2.10",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "icon.png",
+        "leaf.xnet.5.2.10.nupkg.sha512",
+        "leaf.xnet.nuspec",
+        "lib/net45/Leaf.xNet.dll",
+        "lib/net45/Leaf.xNet.xml",
+        "lib/netstandard2.0/Leaf.xNet.dll",
+        "lib/netstandard2.0/Leaf.xNet.xml"
+      ]
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "sha512": "6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "type": "package",
+      "path": "newtonsoft.json/12.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "newtonsoft.json.12.0.3.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7.2": [
+      "Anarchy-wrapper >= 0.8.1.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Steve\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\[A] Code\\C#\\ScrapeGuildMembers\\ScrapeGuildMembers\\ScrapeGuildMembers.csproj",
+      "projectName": "ScrapeGuildMembers",
+      "projectPath": "D:\\[A] Code\\C#\\ScrapeGuildMembers\\ScrapeGuildMembers\\ScrapeGuildMembers.csproj",
+      "packagesPath": "C:\\Users\\Steve\\.nuget\\packages\\",
+      "outputPath": "D:\\[A] Code\\C#\\ScrapeGuildMembers\\ScrapeGuildMembers\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Steve\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net472"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net472": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net472": {
+        "dependencies": {
+          "Anarchy-wrapper": {
+            "target": "Package",
+            "version": "[0.8.1.1, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+D:\[A] Code\C#\ScrapeGuildMembers\ScrapeGuildMembers\obj\Debug\ScrapeGuildMembers.csproj.AssemblyReference.cache
+D:\[A] Code\C#\ScrapeGuildMembers\ScrapeGuildMembers\obj\Debug\ScrapeGuildMembers.csproj.CoreCompileInputs.cache
+D:\[A] Code\C#\ScrapeGuildMembers\ScrapeGuildMembers\bin\Debug\ScrapeGuildMembers.exe.config
+D:\[A] Code\C#\ScrapeGuildMembers\ScrapeGuildMembers\bin\Debug\ScrapeGuildMembers.exe
+D:\[A] Code\C#\ScrapeGuildMembers\ScrapeGuildMembers\bin\Debug\ScrapeGuildMembers.pdb
+D:\[A] Code\C#\ScrapeGuildMembers\ScrapeGuildMembers\bin\Debug\Anarchy.dll
+D:\[A] Code\C#\ScrapeGuildMembers\ScrapeGuildMembers\bin\Debug\websocket-sharp.dll
+D:\[A] Code\C#\ScrapeGuildMembers\ScrapeGuildMembers\bin\Debug\Leaf.xNet.dll
+D:\[A] Code\C#\ScrapeGuildMembers\ScrapeGuildMembers\bin\Debug\Newtonsoft.Json.dll
+D:\[A] Code\C#\ScrapeGuildMembers\ScrapeGuildMembers\obj\Debug\ScrapeGuildMembers.csproj.CopyComplete
+D:\[A] Code\C#\ScrapeGuildMembers\ScrapeGuildMembers\obj\Debug\ScrapeGuildMembers.exe
+D:\[A] Code\C#\ScrapeGuildMembers\ScrapeGuildMembers\obj\Debug\ScrapeGuildMembers.pdb

@@ -1,0 +1,6 @@
+.git/
+.vs/
+.vscode/
+
+ScrapeGuildMembers/bin/
+

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "KbW1+DBloYfu8/c+dvGMWLnLxYvqgyX/N4a6eVLqSMJjRcHRSVz5yHaseJlu6Lk+kVtm9fA5fDirsZJkRXsF0w==",
+  "success": true,
+  "projectFilePath": "D:\\[A] Code\\C#\\ScrapeGuildMembers\\ScrapeGuildMembers\\ScrapeGuildMembers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Steve\\.nuget\\packages\\anarchy-wrapper\\0.8.1.1\\anarchy-wrapper.0.8.1.1.nupkg.sha512",
+    "C:\\Users\\Steve\\.nuget\\packages\\better-websocket-sharp\\1.0.2.1\\better-websocket-sharp.1.0.2.1.nupkg.sha512",
+    "C:\\Users\\Steve\\.nuget\\packages\\leaf.xnet\\5.2.10\\leaf.xnet.5.2.10.nupkg.sha512",
+    "C:\\Users\\Steve\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

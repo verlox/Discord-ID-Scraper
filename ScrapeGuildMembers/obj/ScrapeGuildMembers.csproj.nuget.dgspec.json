@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\[A] Code\\C#\\ScrapeGuildMembers\\ScrapeGuildMembers\\ScrapeGuildMembers.csproj": {}
+  },
+  "projects": {
+    "D:\\[A] Code\\C#\\ScrapeGuildMembers\\ScrapeGuildMembers\\ScrapeGuildMembers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\[A] Code\\C#\\ScrapeGuildMembers\\ScrapeGuildMembers\\ScrapeGuildMembers.csproj",
+        "projectName": "ScrapeGuildMembers",
+        "projectPath": "D:\\[A] Code\\C#\\ScrapeGuildMembers\\ScrapeGuildMembers\\ScrapeGuildMembers.csproj",
+        "packagesPath": "C:\\Users\\Steve\\.nuget\\packages\\",
+        "outputPath": "D:\\[A] Code\\C#\\ScrapeGuildMembers\\ScrapeGuildMembers\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Steve\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Anarchy-wrapper": {
+              "target": "Package",
+              "version": "[0.8.1.1, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
