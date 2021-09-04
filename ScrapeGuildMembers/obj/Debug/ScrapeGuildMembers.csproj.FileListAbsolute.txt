@@ -10,3 +10,4 @@ D:\[A] Code\C#\ScrapeGuildMembers\ScrapeGuildMembers\bin\Debug\Newtonsoft.Json.d
 D:\[A] Code\C#\ScrapeGuildMembers\ScrapeGuildMembers\obj\Debug\ScrapeGuildMembers.csproj.CopyComplete
 D:\[A] Code\C#\ScrapeGuildMembers\ScrapeGuildMembers\obj\Debug\ScrapeGuildMembers.exe
 D:\[A] Code\C#\ScrapeGuildMembers\ScrapeGuildMembers\obj\Debug\ScrapeGuildMembers.pdb
+D:\[A] Code\C#\ScrapeGuildMembers\ScrapeGuildMembers\obj\Debug\ScrapeGuildMembers.exe.config

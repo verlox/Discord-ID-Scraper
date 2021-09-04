@@ -41,6 +41,10 @@
             "Anarchy-wrapper": {
               "target": "Package",
               "version": "[0.8.1.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
             }
           }
         }
